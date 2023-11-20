@@ -1,7 +1,7 @@
 <div dsplay="inline-block">
  
  <h2 align="center"> Olá mundo! Eu sou o Vitor Ozorio</h2>
-<p align="center"><i>Estudante de programação 💡</i></p> 
+<p align="center"><i>Desenvolvedor java &#9749;&#65039;💡</i></p> 
 </div>
 </br>
 </br>
