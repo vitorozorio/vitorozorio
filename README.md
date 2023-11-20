@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <img src="https://hermes.dio.me/articles/cover/7c31678a-f970-4a98-8cbf-85cf053d69e1.gif" width="350">
 </p>
 </br>
 </br>
