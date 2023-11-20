@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://hermes.dio.me/articles/cover/7c31678a-f970-4a98-8cbf-85cf053d69e1.gif" width="350">
+  <img src="https://hermes.dio.me/articles/cover/7c31678a-f970-4a98-8cbf-85cf053d69e1.gif" width="500">
 </p>
 </br>
 </br>
